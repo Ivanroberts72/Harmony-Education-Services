@@ -4,7 +4,7 @@ Welcome to the Harmony Education Services repository. This project contains the 
 
 ## Table of Contents
 - [About Us](#about-us)
-- [Home](#home)
+- [Home](#index.html)
 - [Contact Us](#contact-us)
 - [Activities](#activities)
 - [Staff](#staff)
