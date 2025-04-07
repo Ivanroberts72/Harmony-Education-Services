@@ -8,7 +8,7 @@ This is the main page for Harmony Education Services.
 ## Links to Other Pages
 
 - [Home Page](https://ivanroberts72.github.io/Harmony-Education-Services/)
-- [About Us](https://ivanroberts72.github.io/Harmony-Education-Services/about.html)
+- [About Us](https://ivanroberts72.github.io/Harmony-Education-Services/aboutus.html)
 - [Services](https://ivanroberts72.github.io/Harmony-Education-Services/services.html)
 - [Contact](https://ivanroberts72.github.io/Harmony-Education-Services/contact.html)
 
