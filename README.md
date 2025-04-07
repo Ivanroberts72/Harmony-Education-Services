@@ -1,7 +1,18 @@
 # Harmony Education Services
 
 Welcome to the Harmony Education Services repository. This project contains the content and structure for the educational service's website.
+# Welcome to Harmony Education Services
 
+This is the main page for Harmony Education Services.
+
+## Links to Other Pages
+
+- [Home Page](https://ivanroberts72.github.io/Harmony-Education-Services/)
+- [About Us](https://ivanroberts72.github.io/Harmony-Education-Services/about.html)
+- [Services](https://ivanroberts72.github.io/Harmony-Education-Services/services.html)
+- [Contact](https://ivanroberts72.github.io/Harmony-Education-Services/contact.html)
+
+Feel free to explore the different sections of our website.
 ## Table of Contents
 - [About Us](#about-us)
 - [Home](#index.html)
